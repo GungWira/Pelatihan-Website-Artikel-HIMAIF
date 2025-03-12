@@ -144,11 +144,11 @@ section.about .banner img {
   aspect-ratio: 16/7;
   background-color: aliceblue;
   border-radius: 20px;
-  overflow: hidden;
   display: flex;
   justify-content: center;
   align-items: center;
   margin: 0.5rem 0;
+  overflow: hidden;
 }
 .image img {
   width: 100%;
